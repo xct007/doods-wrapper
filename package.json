@@ -1,0 +1,25 @@
+{
+  "name": "doods-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xct007/doods-wrapper.git"
+  },
+  "keywords": [],
+  "author": "FrierenDv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xct007/doods-wrapper/issues"
+  },
+  "homepage": "https://github.com/xct007/doods-wrapper#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
